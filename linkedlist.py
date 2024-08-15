@@ -1,10 +1,4 @@
-# James Carlson
-# Coding Temple - SE FT-144
-# Backend Specialization, Module 11 Lesson 3 Assignment: Linked List
 
-# Implementing a Singly Linked List in Python
-
-# using Book as a Node for the Linked List
 class Book:
     def __init__(self, title):
         self.title = title
